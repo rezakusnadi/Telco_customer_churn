@@ -10,7 +10,7 @@ This project use python and the following libraries :
 # Use Case
 - Summary
 - Objective Statement
-  -  Analyze Customer Telco to predict wether or not customer churn
+  -  Analyze Customer Telco to predict whether or not customer churn
   
 # Sales Understanding
 - Why customer churn
